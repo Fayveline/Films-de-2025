@@ -1,0 +1,86 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: "Space Grotesk", Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #dba4d9;
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #080808;
+}
+
+h1 {
+    font-size: 8em;
+    text-align: center;
+    transform: rotate(-5deg)
+}
+
+h2 {
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h3 {
+    font-size: 2em;
+    text-align: left;
+    margin: 20px 15%;
+}
+
+.film {
+    min-height: 10em;
+    background-size: cover;
+    margin: 0px 0px;
+    padding: 1em;
+    background-size: cover;
+    background-position: top center;
+    text-shadow: 1px 1px 1px #000000;
+    border: 2px solid #666666;
+    margin: 20px 0;
+}
+
+.chapter {
+    counter-reset: year_counter 10;
+}
+
+.chapter > .film > h3 {
+    /*filter: invert(1);
+    mix-blend-mode: difference;*/
+    text-shadow: 3px 3px 1px #000000;
+    counter-increment: year_counter -1;
+}
+
+.film h3::before {
+    content: counter(year_counter) ". ";
+}
+
+.film img {
+    width: 100%;
+}
+
+.film:nth-child(odd) h3 {
+    text-align: right;
+}
+
+
+table {
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #121212;
+}
+
+#all-movies thead th {
+    position: sticky;
+    top: 0;
+    background-color: #080808;
+}

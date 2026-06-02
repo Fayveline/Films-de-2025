@@ -1,0 +1,1332 @@
+[
+  {
+    "ChronologicalWatchNumber": 1,
+    "Title": "Occult",
+    "ReleaseYear": 2009,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 2,
+    "Title": "Nosferatu",
+    "ReleaseYear": 2024,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 3,
+    "Title": "The Crazies",
+    "ReleaseYear": 1973,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 4,
+    "Title": "Pulse",
+    "Commentaire": "Je n'en ai regardé que la moitié, n'ayant rien compris.",
+    "ReleaseYear": 2001,
+    "SeenInCinema": false,
+    "Note": -1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 5,
+    "Title": "[REC]",
+    "ReleaseYear": 2007,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 6,
+    "Title": "[REC 2]",
+    "ReleaseYear": 2009,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 7,
+    "Title": "Day of the dead",
+    "ReleaseYear": 1985,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 8,
+    "Title": "Network",
+    "ReleaseYear": 1976,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 9,
+    "Title": "12 angry men",
+    "ReleaseYear": 1957,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 10,
+    "Title": "Pitch Black",
+    "ReleaseYear": 2000,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 11,
+    "Title": "Sonic the Hedgehog 2",
+    "ReleaseYear": 2022,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 12,
+    "Title": "Sonic the Hedgehog 3",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 13,
+    "Title": "Citizen Kane",
+    "ReleaseYear": 1941,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 14,
+    "Title": "The French Connection",
+    "ReleaseYear": 1971,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 15,
+    "Title": "The Chronicles of Riddick Dark Fury",
+    "ReleaseYear": 2004,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 16,
+    "Title": "The chronicles of Riddick",
+    "ReleaseYear": 2004,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 17,
+    "Title": "Memories of Murder",
+    "ReleaseYear": 2003,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 18,
+    "Title": "I Saw the TV Glow",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 19,
+    "Title": "The Apprentice",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 20,
+    "Title": "Creep",
+    "ReleaseYear": 2014,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 21,
+    "Title": "Companion",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 22,
+    "Title": "Land of the Dead",
+    "ReleaseYear": 2005,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 23,
+    "Title": "Severance",
+    "ReleaseYear": 2006,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 24,
+    "Title": "The green knight",
+    "ReleaseYear": 2021,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 25,
+    "Title": "V/H/S Beyond",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 26,
+    "Title": "Diary of the dead",
+    "ReleaseYear": 2007,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 27,
+    "Title": "Dawn of the Dead",
+    "ReleaseYear": 2004,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 28,
+    "Title": "Survival of the Dead",
+    "ReleaseYear": 2009,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 29,
+    "Title": "R-point",
+    "ReleaseYear": 2004,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 30,
+    "Title": "Late night with the Devil",
+    "ReleaseYear": 2023,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 31,
+    "Title": "The Return of the Living Dead",
+    "ReleaseYear": 1985,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 32,
+    "Title": "Overlord",
+    "ReleaseYear": 2018,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 33,
+    "Title": "The pope’s exorcist",
+    "ReleaseYear": 2023,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 34,
+    "Title": "The Host",
+    "ReleaseYear": 2006,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 35,
+    "Title": "Conclave",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 36,
+    "Title": "Venus",
+    "ReleaseYear": 2022,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 37,
+    "Title": "The Blob",
+    "ReleaseYear": 1958,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 38,
+    "Title": "The Blob",
+    "ReleaseYear": 1988,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 39,
+    "Title": "The clovehitch killer",
+    "ReleaseYear": 2018,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 40,
+    "Title": "Sinister",
+    "ReleaseYear": 2012,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 41,
+    "Title": "The Fly",
+    "ReleaseYear": 1958,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 42,
+    "Title": "Mickey 17",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 43,
+    "Title": "The Fly",
+    "ReleaseYear": 1988,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 44,
+    "Title": "House of Wax",
+    "ReleaseYear": 1953,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 45,
+    "Title": "House of Wax",
+    "ReleaseYear": 2005,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 46,
+    "Title": "Mystery of the Wax Museum",
+    "ReleaseYear": 1933,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 47,
+    "Title": "House on Haunted Hill",
+    "ReleaseYear": 1959,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 48,
+    "Title": "House on Haunted Hill",
+    "ReleaseYear": 1999,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 49,
+    "Title": "The Foreigner",
+    "ReleaseYear": 2017,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 50,
+    "Title": "The Eye",
+    "ReleaseYear": 2008,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 51,
+    "Title": "Wayne’s World",
+    "ReleaseYear": 1992,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 52,
+    "Title": "Sinister 2",
+    "ReleaseYear": 2015,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 53,
+    "Title": "Moonfall",
+    "ReleaseYear": 2022,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 54,
+    "Title": "Carry-on",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 55,
+    "Title": "The Eye",
+    "ReleaseYear": 2002,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 56,
+    "Title": "The Sting",
+    "ReleaseYear": 1973,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 57,
+    "Title": "In a violent nature",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 58,
+    "Title": "Hundreds of Beavers",
+    "ReleaseYear": 2022,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 59,
+    "Title": "Cat People",
+    "ReleaseYear": 1982,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 60,
+    "Title": "Jacob’s ladder",
+    "ReleaseYear": 1990,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 61,
+    "Title": "Westworld",
+    "ReleaseYear": 1973,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 62,
+    "Title": "The people under the stairs",
+    "ReleaseYear": 1991,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 63,
+    "Title": "Cat People",
+    "ReleaseYear": 1942,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 64,
+    "Title": "Hereditary",
+    "ReleaseYear": 2018,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 65,
+    "Title": "Slither",
+    "ReleaseYear": 2006,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 66,
+    "Title": "The Belko experiment",
+    "ReleaseYear": 2016,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 67,
+    "Title": "Sinners",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 68,
+    "Title": "Thunderbolts*",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 69,
+    "Title": "Night of the creeps",
+    "ReleaseYear": 1986,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 70,
+    "Title": "Shivers",
+    "ReleaseYear": 1975,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 71,
+    "Title": "The Monkey",
+    "ReleaseYear": 2025,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 72,
+    "Title": "The Raid",
+    "ReleaseYear": 2011,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 73,
+    "Title": "Wes Craven’s New Nightmare",
+    "ReleaseYear": 1994,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 74,
+    "Title": "A Nightmare on Elm Street 3 : Dream Warriors",
+    "ReleaseYear": 1987,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 75,
+    "Title": "The Raid 2",
+    "ReleaseYear": 2014,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 76,
+    "Title": "Free Fire",
+    "ReleaseYear": 2016,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 77,
+    "Title": "Drag me to hell",
+    "ReleaseYear": 2009,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 78,
+    "Title": "Porco Rosso",
+    "ReleaseYear": 1992,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 79,
+    "Title": "Green Room",
+    "ReleaseYear": 2015,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 80,
+    "Title": "Chime",
+    "ReleaseYear": 2024,
+    "SeenInCinema": true,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 81,
+    "Title": "Escape from Pretoria",
+    "ReleaseYear": 2020,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 82,
+    "Title": "Superman",
+    "ReleaseYear": 1978,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 83,
+    "Title": "The Phoenician Scheme",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 85,
+    "Title": "Please don’t destroy : the treasure of Foggy mountain",
+    "Commentaire": "Je me suis arrêté après 2 tiers.",
+    "ReleaseYear": 2023,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 86,
+    "Title": "Stop Making Sense",
+    "ReleaseYear": 1984,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 87,
+    "Title": "Olympus has fallen",
+    "ReleaseYear": 2013,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 88,
+    "Title": "Tropic Thunder",
+    "ReleaseYear": 2008,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 89,
+    "Title": "Carrie",
+    "ReleaseYear": 1976,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 90,
+    "Title": "L’accident de piano",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 91,
+    "Title": "Superman",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 92,
+    "Title": "The Amateur",
+    "ReleaseYear": 2025,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 93,
+    "Title": "Aguirre, the Wrath of God",
+    "ReleaseYear": 1972,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 94,
+    "Title": "Vermines",
+    "ReleaseYear": 2023,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 95,
+    "Title": "Eddington",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": true 
+  },
+  {
+    "ChronologicalWatchNumber": 97,
+    "Title": "Le voyage de Chihiro",
+    "ReleaseYear": 2001,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 98,
+    "Title": "Fantastic Four : First Steps",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 99,
+    "Title": "Superman II",
+    "ReleaseYear": 1980,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 100,
+    "Title": "The King of Comedy",
+    "ReleaseYear": 1982,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 101,
+    "Title": "Justice League : Crisis on Infinite Earth",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 102,
+    "Title": "Last stop in Yuma County",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 103,
+    "Title": "Ghostbusters : Afterburner",
+    "ReleaseYear": 2021,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 104,
+    "Title": "Justice League : Crisis on Infinite Earth part 2",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 105,
+    "Title": "Justice League : Crisis on Infinite Earth part 3",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 106,
+    "Title": "En boucle",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 107,
+    "Title": "Le château ambulant",
+    "ReleaseYear": 2004,
+    "SeenInCinema": true,
+    "Note": 4,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 108,
+    "Title": "Session 9",
+    "ReleaseYear": 2001,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 109,
+    "Title": "Let the right one in",
+    "ReleaseYear": 2008,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 110,
+    "Title": "The Abyss",
+    "ReleaseYear": 1989,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 111,
+    "Title": "Adaptation",
+    "ReleaseYear": 2002,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 112,
+    "Title": "Annabelle : Creation",
+    "ReleaseYear": 2017,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 113,
+    "Title": "Annabelle Comes Home",
+    "ReleaseYear": 2019,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 114,
+    "Title": "Jurassic World Rebirth",
+    "ReleaseYear": 2025,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 115,
+    "Title": "The Invisible Man",
+    "ReleaseYear": 2020,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 116,
+    "Title": "Monkey Man",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 117,
+    "Title": "The Northman",
+    "ReleaseYear": 2022,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 118,
+    "Title": "Weapons",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 119,
+    "Title": "The Thing",
+    "ReleaseYear": 1982,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 120,
+    "Title": "Exit 8",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 121,
+    "Title": "Conjuring 4",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 122,
+    "Title": "Le Roi Soleil",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 123,
+    "Title": "Ponyo sur la falaise",
+    "ReleaseYear": 2008,
+    "SeenInCinema": true,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 124,
+    "Title": "Falling Down",
+    "ReleaseYear": 1993,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 125,
+    "Title": "The Descent",
+    "ReleaseYear": 2005,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 126,
+    "Title": "Bubba Ho-Tel",
+    "ReleaseYear": 2002,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 127,
+    "Title": "Skinamarink",
+    "ReleaseYear": 2022,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 128,
+    "Title": "Phantasm",
+    "ReleaseYear": 1979,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 129,
+    "Title": "The Tunnel",
+    "ReleaseYear": 2011,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 130,
+    "Title": "Tron: Ares",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 131,
+    "Title": "Savageland",
+    "ReleaseYear": 2015,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 132,
+    "Title": "The Black Phone 2",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 133,
+    "Title": "The Conversation",
+    "ReleaseYear": 1974,
+    "SeenInCinema": true,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 134,
+    "Title": "As above, so below",
+    "ReleaseYear": 2014,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 135,
+    "Title": "The strangers",
+    "ReleaseYear": 2008,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 136,
+    "Title": "V/H/S/Halloween",
+    "ReleaseYear": 2025,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 137,
+    "Title": "Vacancy",
+    "ReleaseYear": 2008,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 138,
+    "Title": "Stand by me",
+    "ReleaseYear": 1986,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 139,
+    "Title": "Zero Dark Thirty",
+    "ReleaseYear": 2013,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 140,
+    "Title": "Malignant",
+    "ReleaseYear": 2021,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 141,
+    "Title": "M3GAN",
+    "ReleaseYear": 2022,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 142,
+    "Title": "The Ninth Gate",
+    "ReleaseYear": 1999,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 143,
+    "Title": "Pulse",
+    "ReleaseYear": 2001,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 144,
+    "Title": "Noroi : the curse",
+    "ReleaseYear": 2005,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 145,
+    "Title": "Chainsaw man : l’Arc de Reze",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 146,
+    "Title": "Predator : badlands",
+    "ReleaseYear": 2025,
+    "SeenInCinema": true,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 147,
+    "Title": "The Running Man",
+    "ReleaseYear": 1987,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 148,
+    "Title": "Fargo",
+    "ReleaseYear": 1996,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 149,
+    "Title": "Predator 2",
+    "ReleaseYear": 1990,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 150,
+    "Title": "Possession",
+    "ReleaseYear": 1981,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 151,
+    "Title": "Burn After Reading",
+    "ReleaseYear": 2008,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 152,
+    "Title": "Predators",
+    "ReleaseYear": 2010,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 153,
+    "Title": "Blackkklansman",
+    "ReleaseYear": 2018,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 154,
+    "Title": "Superman",
+    "ReleaseYear": 2025,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 155,
+    "Title": "Weapons",
+    "ReleaseYear": 2025,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 156,
+    "Title": "Game Night",
+    "ReleaseYear": 2018,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 157,
+    "Title": "Blink twice",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 158,
+    "Title": "Juror n°2",
+    "ReleaseYear": 2025,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 159,
+    "Title": "The Meg 2 : the Trench",
+    "ReleaseYear": 2023,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 160,
+    "Title": "Due date",
+    "ReleaseYear": 2010,
+    "SeenInCinema": false,
+    "Note": 1,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 161,
+    "Title": "Captain America 4 : Brave New World",
+    "ReleaseYear": 2025,
+    "SeenInCinema": false,
+    "Note": 2,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 162,
+    "Title": "Onsen Sharku",
+    "ReleaseYear": 2024,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 163,
+    "Title": "Muppet Christmas Carol",
+    "ReleaseYear": 1992,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 164,
+    "Title": "The Wizard of Oz",
+    "ReleaseYear": 1939,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 165,
+    "Title": "Scott Pilgrim vs the World",
+    "ReleaseYear": 2010,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 166,
+    "Title": "Ready or Not",
+    "ReleaseYear": 2019,
+    "SeenInCinema": false,
+    "Note": 4,
+    "FirstWatch": false
+  },
+  {
+    "ChronologicalWatchNumber": 167,
+    "Title": "Escape From the 21st Century",
+    "ReleaseYear": 2025,
+    "SeenInCinema": false,
+    "Note": 5,
+    "FirstWatch": true
+  },
+  {
+    "ChronologicalWatchNumber": 168,
+    "Title": "The Running Man",
+    "ReleaseYear": 2025,
+    "SeenInCinema": false,
+    "Note": 3,
+    "FirstWatch": true
+  }
+]
